@@ -1,0 +1,51 @@
+body {
+    font-family: "Arial Rounded MT Bold";
+    text-align: center;
+}
+.flag {
+    width: 80px;
+    height: 50px;
+}
+.header-div {
+    background-color: grey;
+    height: 125px;
+    margin: 10px;
+    padding: 5px;
+}
+.header {
+    width: 700px;
+    margin: auto;
+    font-size: 50px;
+}
+.language-div {
+    width: 120px;
+    height: 100px;
+    margin: 10px;
+    padding: 5px;
+    display: inline-block;
+}
+.languages-div {
+    background-color: #ffffff;
+    margin-top: 100px;
+}
+.language-header {
+    margin: 5px;
+    font-size: 20px;
+}
+.user-languages {
+    font-size: 20px;
+    margin: 5px;
+}
+.user-languages-header {
+    font-size: 25px;
+    margin-top: 50px;
+}
+.checkbox {
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+}
+.user-languages-div {
+    margin-top: 100px;
+    height: 300px;
+}
